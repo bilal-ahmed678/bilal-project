@@ -1,0 +1,83 @@
+.tys-footer{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 75px 0 50px 0;
+    color: rgba( white, .7 );
+    font-size: rem(16);
+}
+.xc{
+    padding-top: 30px;
+}
+
+.dre{
+    padding: 14px;
+}
+.nav-links{
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    text-decoration: none;
+    font-style: serif;
+    font-weight: lighter;
+    font-size: 10px;
+    color: black;
+}
+.coln{
+    background-color: rgb(224, 224, 224);
+    
+}
+
+.ght{
+    text-align: center;
+    background-color: rgb(212, 197, 197);
+    /* margin-top: 10px; */
+   
+}
+.bilalImg{
+    height: auto;
+    width: 100%;
+}
+.bilalRew{
+    margin-top: 10px;
+}
+.blueImg{
+    text-align: left;
+}
+.log{
+    margin-top: 5px;
+    width: auto;
+    text-align: left;
+}
+.navrow{
+    margin-top: 10px;
+}
+.butdiv{
+    margin: 0px;
+    text-align: center;
+}
+.but1{
+    width: 100%;
+    margin: auto;
+}
+.but2{
+    width: 100%;
+}
+.but3{
+    width: 100%;
+}
+.but4{
+    width: 100%;
+}
+.but5{
+    width: 100%;
+}
+.but6{
+    width: 100%;
+}
+.slider{
+    margin-top: 10px;
+    width: 100%;
+    padding: 0px;
+}
